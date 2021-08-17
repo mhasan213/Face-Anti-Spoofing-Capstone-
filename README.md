@@ -6,11 +6,11 @@
 - opencv-python
 - numpy
 - json
-- \> = Pytorch 0.4.1
+- Pytorch 0.4.1
 
 ## Usage
 
-- **Step 1.** Run it !!
+- Run - 
 
   ```python
   python app.py
