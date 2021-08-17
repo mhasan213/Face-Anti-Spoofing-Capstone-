@@ -1,2 +1,17 @@
-# Face-Anti-Spoofing-Capstone-
-Application preventing false facial verification with neural network by using a photo, video, mask or a different substitute for an authorized person’s face.
+# Code for CSE499
+
+## Dependencies
+
+- python 3
+- opencv-python
+- numpy
+- json
+- \> = Pytorch 0.4.1
+
+## Usage
+
+- **Step 1.** Run it !!
+
+  ```python
+  python app.py
+  ```
