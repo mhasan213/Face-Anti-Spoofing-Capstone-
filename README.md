@@ -11,7 +11,6 @@
 ## Usage
 
 - Run - 
-
   ```python
   python app.py
   ```
